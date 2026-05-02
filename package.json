@@ -23,7 +23,7 @@
     "tsparticles": "^3.9.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://shreyaskasar.github.io/my-portfolio",
+  "homepage": "https://sanket-02.github.io/Portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
